@@ -1,0 +1,41 @@
+{
+  "app": {
+    "name": "Compagnon de Tâches"
+  },
+  "hero": {
+    "title": "Une étape à la fois ✨",
+    "subtitle": "Décomposez les grandes tâches, célébrez les petites victoires"
+  },
+  "progress": {
+    "todayCompleted": "Fait aujourd'hui",
+    "streak": "Jours consécutifs",
+    "total": "Total"
+  },
+  "task": {
+    "placeholder": "Que devez-vous faire ?",
+    "add": "Ajouter une tâche",
+    "breakdown": "Décomposer",
+    "breakdownTooltip": "L'IA décompose en petites étapes",
+    "empty": "Pas encore de tâches !",
+    "emptyHint": "Ajoutez une tâche ou laissez l'IA en décomposer une grande",
+    "pending": "À faire",
+    "completedSection": "Terminé",
+    "completed": "Tâche terminée",
+    "markComplete": "Marquer comme terminé",
+    "delete": "Supprimer la tâche"
+  },
+  "breakdown": {
+    "title": "Décomposition de tâche",
+    "original": "Tâche originale",
+    "steps": "Petites étapes",
+    "cancel": "Annuler",
+    "addAll": "Tout ajouter"
+  },
+  "buddy": {
+    "name": "Compagnon de Tâches",
+    "toggle": "Discuter avec le compagnon",
+    "greeting": "Salut ! 👋 Je suis là pour t'aider. Comment puis-je te soutenir aujourd'hui ?",
+    "placeholder": "Dis-moi comment tu vas...",
+    "error": "Oups, j'ai été distrait. Tu peux réessayer ? 😅"
+  }
+}

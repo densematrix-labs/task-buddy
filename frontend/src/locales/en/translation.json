@@ -1,0 +1,41 @@
+{
+  "app": {
+    "name": "Task Buddy"
+  },
+  "hero": {
+    "title": "One step at a time ✨",
+    "subtitle": "Break down big tasks, celebrate small wins"
+  },
+  "progress": {
+    "todayCompleted": "Done Today",
+    "streak": "Day Streak",
+    "total": "All Time"
+  },
+  "task": {
+    "placeholder": "What do you need to do?",
+    "add": "Add Task",
+    "breakdown": "Break it down",
+    "breakdownTooltip": "Let AI break this into smaller steps",
+    "empty": "No tasks yet!",
+    "emptyHint": "Add a task or let AI help break down a big one",
+    "pending": "To Do",
+    "completedSection": "Completed",
+    "completed": "Task completed",
+    "markComplete": "Mark as complete",
+    "delete": "Delete task"
+  },
+  "breakdown": {
+    "title": "Task Breakdown",
+    "original": "Original Task",
+    "steps": "Smaller Steps",
+    "cancel": "Cancel",
+    "addAll": "Add All Steps"
+  },
+  "buddy": {
+    "name": "Task Buddy",
+    "toggle": "Chat with buddy",
+    "greeting": "Hey there! 👋 I'm here to help you stay on track. How can I support you today?",
+    "placeholder": "Tell me how you're doing...",
+    "error": "Oops, I got a bit distracted. Could you try again? 😅"
+  }
+}

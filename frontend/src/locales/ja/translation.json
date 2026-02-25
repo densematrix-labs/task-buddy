@@ -1,0 +1,41 @@
+{
+  "app": {
+    "name": "タスクバディ"
+  },
+  "hero": {
+    "title": "一歩ずつ進もう ✨",
+    "subtitle": "大きなタスクを分解して、小さな成功を祝おう"
+  },
+  "progress": {
+    "todayCompleted": "今日完了",
+    "streak": "連続日数",
+    "total": "累計完了"
+  },
+  "task": {
+    "placeholder": "何をする必要がありますか？",
+    "add": "タスク追加",
+    "breakdown": "分解する",
+    "breakdownTooltip": "AIに小さなステップに分解してもらう",
+    "empty": "まだタスクがありません！",
+    "emptyHint": "タスクを追加するか、AIに大きなタスクを分解してもらいましょう",
+    "pending": "やること",
+    "completedSection": "完了",
+    "completed": "タスク完了",
+    "markComplete": "完了にする",
+    "delete": "タスクを削除"
+  },
+  "breakdown": {
+    "title": "タスク分解",
+    "original": "元のタスク",
+    "steps": "小さなステップ",
+    "cancel": "キャンセル",
+    "addAll": "すべて追加"
+  },
+  "buddy": {
+    "name": "タスクバディ",
+    "toggle": "バディとチャット",
+    "greeting": "こんにちは！👋 今日はどうお手伝いしましょうか？",
+    "placeholder": "今の気持ちを教えてください...",
+    "error": "おっと、ちょっと気が散っちゃった。もう一度お願いできますか？😅"
+  }
+}

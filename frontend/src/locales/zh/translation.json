@@ -1,0 +1,41 @@
+{
+  "app": {
+    "name": "任务伙伴"
+  },
+  "hero": {
+    "title": "一步一步来 ✨",
+    "subtitle": "分解大任务，庆祝小成就"
+  },
+  "progress": {
+    "todayCompleted": "今日完成",
+    "streak": "连续天数",
+    "total": "累计完成"
+  },
+  "task": {
+    "placeholder": "你需要做什么？",
+    "add": "添加任务",
+    "breakdown": "拆分任务",
+    "breakdownTooltip": "让 AI 帮你拆分成小步骤",
+    "empty": "还没有任务！",
+    "emptyHint": "添加一个任务，或让 AI 帮你拆分大任务",
+    "pending": "待办",
+    "completedSection": "已完成",
+    "completed": "任务已完成",
+    "markComplete": "标记完成",
+    "delete": "删除任务"
+  },
+  "breakdown": {
+    "title": "任务拆分",
+    "original": "原始任务",
+    "steps": "小步骤",
+    "cancel": "取消",
+    "addAll": "全部添加"
+  },
+  "buddy": {
+    "name": "任务伙伴",
+    "toggle": "和伙伴聊天",
+    "greeting": "你好！👋 我是你的任务伙伴，今天我能帮你什么？",
+    "placeholder": "告诉我你的感受...",
+    "error": "哎呀，我走神了。能再说一次吗？😅"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "app": {
+    "name": "태스크 버디"
+  },
+  "hero": {
+    "title": "한 걸음씩 ✨",
+    "subtitle": "큰 작업을 나누고, 작은 성공을 축하하세요"
+  },
+  "progress": {
+    "todayCompleted": "오늘 완료",
+    "streak": "연속 일수",
+    "total": "전체 완료"
+  },
+  "task": {
+    "placeholder": "무엇을 해야 하나요?",
+    "add": "작업 추가",
+    "breakdown": "나누기",
+    "breakdownTooltip": "AI가 작은 단계로 나눠드려요",
+    "empty": "아직 작업이 없어요!",
+    "emptyHint": "작업을 추가하거나 AI가 큰 작업을 나누도록 하세요",
+    "pending": "할 일",
+    "completedSection": "완료됨",
+    "completed": "작업 완료",
+    "markComplete": "완료로 표시",
+    "delete": "작업 삭제"
+  },
+  "breakdown": {
+    "title": "작업 나누기",
+    "original": "원래 작업",
+    "steps": "작은 단계들",
+    "cancel": "취소",
+    "addAll": "모두 추가"
+  },
+  "buddy": {
+    "name": "태스크 버디",
+    "toggle": "버디와 채팅",
+    "greeting": "안녕하세요! 👋 오늘 어떻게 도와드릴까요?",
+    "placeholder": "기분이 어떠세요...",
+    "error": "앗, 잠깐 딴생각했어요. 다시 말씀해주실래요? 😅"
+  }
+}

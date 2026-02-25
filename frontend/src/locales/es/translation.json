@@ -1,0 +1,41 @@
+{
+  "app": {
+    "name": "Compañero de Tareas"
+  },
+  "hero": {
+    "title": "Paso a paso ✨",
+    "subtitle": "Divide grandes tareas, celebra pequeños logros"
+  },
+  "progress": {
+    "todayCompleted": "Hecho hoy",
+    "streak": "Días seguidos",
+    "total": "Total"
+  },
+  "task": {
+    "placeholder": "¿Qué necesitas hacer?",
+    "add": "Añadir tarea",
+    "breakdown": "Dividir",
+    "breakdownTooltip": "La IA lo divide en pasos más pequeños",
+    "empty": "¡Aún no hay tareas!",
+    "emptyHint": "Añade una tarea o deja que la IA divida una grande",
+    "pending": "Por hacer",
+    "completedSection": "Completado",
+    "completed": "Tarea completada",
+    "markComplete": "Marcar como completado",
+    "delete": "Eliminar tarea"
+  },
+  "breakdown": {
+    "title": "División de tarea",
+    "original": "Tarea original",
+    "steps": "Pasos pequeños",
+    "cancel": "Cancelar",
+    "addAll": "Añadir todo"
+  },
+  "buddy": {
+    "name": "Compañero de Tareas",
+    "toggle": "Chatear con el compañero",
+    "greeting": "¡Hola! 👋 Estoy aquí para ayudarte. ¿Cómo puedo apoyarte hoy?",
+    "placeholder": "Cuéntame cómo te sientes...",
+    "error": "Ups, me distraje un momento. ¿Puedes intentar de nuevo? 😅"
+  }
+}

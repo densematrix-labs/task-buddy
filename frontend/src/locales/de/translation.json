@@ -1,0 +1,41 @@
+{
+  "app": {
+    "name": "Aufgaben-Buddy"
+  },
+  "hero": {
+    "title": "Schritt für Schritt ✨",
+    "subtitle": "Große Aufgaben aufteilen, kleine Erfolge feiern"
+  },
+  "progress": {
+    "todayCompleted": "Heute erledigt",
+    "streak": "Tage-Serie",
+    "total": "Insgesamt"
+  },
+  "task": {
+    "placeholder": "Was musst du erledigen?",
+    "add": "Aufgabe hinzufügen",
+    "breakdown": "Aufteilen",
+    "breakdownTooltip": "KI teilt dies in kleinere Schritte auf",
+    "empty": "Noch keine Aufgaben!",
+    "emptyHint": "Füge eine Aufgabe hinzu oder lass die KI eine große aufteilen",
+    "pending": "Zu erledigen",
+    "completedSection": "Erledigt",
+    "completed": "Aufgabe erledigt",
+    "markComplete": "Als erledigt markieren",
+    "delete": "Aufgabe löschen"
+  },
+  "breakdown": {
+    "title": "Aufgabenaufteilung",
+    "original": "Ursprüngliche Aufgabe",
+    "steps": "Kleinere Schritte",
+    "cancel": "Abbrechen",
+    "addAll": "Alle hinzufügen"
+  },
+  "buddy": {
+    "name": "Aufgaben-Buddy",
+    "toggle": "Mit Buddy chatten",
+    "greeting": "Hallo! 👋 Ich bin hier, um dir zu helfen. Wie kann ich dich heute unterstützen?",
+    "placeholder": "Erzähl mir, wie es dir geht...",
+    "error": "Ups, ich war kurz abgelenkt. Kannst du es nochmal versuchen? 😅"
+  }
+}
